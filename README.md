@@ -6,7 +6,7 @@ DePIN refers to a system where physical infrastructure, such as data storage, co
 With Ramo Computer, activities like providing and consuming storage on the Filecoin network – which previously required large-scale operations managed by a team of skilled engineers – can now run on consumer-grade hardware by anyone. This democratizes access to Filecoin and eventually other DePINs. 
 
 # How to use Ramo Computer
-tbd
+Ramo Computer can be used in a datacenter context and running on enterprise-grade hardware as well as on most laptops. The users' ability to commit resources is a function of their specific setup.
 
 
 # How to contribute to Ramo Computer
