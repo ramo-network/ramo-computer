@@ -15,4 +15,5 @@ Anyone can start using v0.1 of Ramo Computer. We appreciate general comments, fe
 
 Thanks for being a part of this community.
 ##
-## Check back for updates in this repo
+More information on Ramo Computer will be made available here soon
+##
