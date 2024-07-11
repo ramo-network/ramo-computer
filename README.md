@@ -1,3 +1,5 @@
+<img width="853" alt="Dark on Green" src="https://github.com/ramo-network/ramo-computer/assets/82394590/6a9c1524-726e-458e-b4f6-f70fdec3a6aa">
+
 # Overview of Ramo Computer
 Ramo Computer is a software that allows anyone – from consumers to enterprise-grade operators – to commit and consume hardware resources on decentralized physical infrastructure networks (DePINs) via the Ramo network. The tool acts as an aggregator for the supply (and demand) of DePIN-mitigated cloud services.
 
